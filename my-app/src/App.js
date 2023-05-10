@@ -67,7 +67,7 @@ function App() {
             </section>
             
             <button type="button" className="btn">
-                SUBMI
+                SUBMIT
             </button>
             <span className="footer"></span>
         </form>
