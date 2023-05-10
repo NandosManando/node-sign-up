@@ -66,10 +66,11 @@ function App() {
                 </label>
             </section>
             
-            <button type="button" className="btn">
-                SUBMIT
-            </button>
-            <span className="footer"></span>
+            <button 
+            onClick={() => ''} 
+            class="btn btn-primary mb-5">SUBMIT
+      </button>
+      <span className="footer"></span>
         </form>
   );
 }
